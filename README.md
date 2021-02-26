@@ -5,5 +5,7 @@ This is a Vanilla JavaScript project. The simple application displays photos fro
 - Fetch Data by using API
 - Infinity scroll
 - Mobile responsive design
+- Deploy with Netlify `$ netlify deploy`
 
+🔗 [Live](https://infinity-scroll-grace.netlify.app/)
 💻 [Go to see more projects](https://jeonghaeun3263.github.io/portfolio/)
